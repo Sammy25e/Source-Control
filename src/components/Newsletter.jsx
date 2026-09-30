@@ -23,7 +23,7 @@ const Newsletter = () => {
           </div>
           <p>
             {" "}
-            We Care bout the protection of your data. Read our{" "}
+            We Care about the protection of your data. Read our{" "}
             <span className="text-[#00df9a]">privacy policy.</span>
           </p>
         </div>
