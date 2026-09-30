@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-black text-white;
+}
+@theme {
+  --color-primary: #16e08e;
+}
