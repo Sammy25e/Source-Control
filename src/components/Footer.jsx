@@ -23,7 +23,16 @@ const Footer = () => {
       </div>
       <div className=" lg:col-span-2 flex justify-between mt-6">
         <div>
-          <h6 className="font-medium text-gray-400">Solutions</h6>
+          <h6 className="font-medium text-gray-400">Solution</h6>
+          <ul>
+            <li className="py-2 text-sm">Analytics</li>
+            <li className="py-2 text-sm">Marketing</li>
+            <li className="py-2 text-sm">Commerce</li>
+            <li className="py-2 text-sm">insights</li>
+          </ul>
+        </div>
+        <div>
+          <h6 className="font-medium text-gray-400">Support</h6>
           <ul>
             <li className="py-2 text-sm">Pricing</li>
             <li className="py-2 text-sm">Documentation</li>
@@ -47,7 +56,6 @@ const Footer = () => {
             <li className="py-2 text-sm">Claims</li>
             <li className="py-2 text-sm">Policy</li>
             <li className="py-2 text-sm">Terms</li>
-            
           </ul>
         </div>
       </div>
