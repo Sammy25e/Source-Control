@@ -11,7 +11,7 @@ const Footer = () => {
         <h1 className="text-primary text-[20px] font-semibold">REACT</h1>
         <p className="py-4">
           Lorem ipsum dolor sit amet consectetur adipiscing elit. Id udit ullam
-          iste repellat
+          iste repellat consequattur libero reiciendis,blanditis accusantitum.
         </p>
         <div className="flex justify-between md:[75%] my-6">
           <FaDribbbleSquare size={30} />
